@@ -1,2 +1,2 @@
-# PRISM_DrugSensivity_WebApp
+# PRISM_DrugSensitivity_WebApp
 PRISM感受性評価の公共データを活用した可視化Webアプリ
